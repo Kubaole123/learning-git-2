@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-size: 25px;
+    background-color: bisque;
+}
+
+.title{
+    font-family: 'Dancing Script', cursive; 
+}
+.text{
+   color:black;
+   line-height: medium;
+}
